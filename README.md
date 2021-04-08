@@ -10,7 +10,7 @@ The [Flask](https://flask.palletsprojects.com/en/1.1.x/) framework has been used
 
 ## How to use
 
-Please select a date from the form in the menu. After selecting a date, a specific time interval can be selected. A road network with incomplete weights can be visualized on the map by leaving the checkbox unchecked. If checked, a road network with completed weights will be shown. Two tabs are then presented. The first tab will allow the user to inspect the edges on a map, and the other will show the weights for all edges in a table.
+Please select a date from the form in the menu. After selecting a date, a specific time interval can be selected. A road network with incomplete weights can be visualized on the map by leaving the checkbox unchecked. If checked, a road network with completed weights will be shown. Two tabs are then presented. The first tab will allow the user to inspect the edges on a map, and the other will show the weights for all edges in a table. 
 
 ## Running the service locally
 
