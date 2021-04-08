@@ -6,7 +6,7 @@ The service uses machine learning to fill out missing weights in a road network,
 
 The graph completion algorithm used in the service is based on the Github repository [GraphCompletion](https://github.com/hujilin1229/GraphCompletion), created by Jilin Hu, Chenjuan Guo, Bin Yang and Christian S. Jensen. The algorithm was created as a part of the scientific paper **"Stochastic Weight Completion for Road Networks Using Graph Convolutional Networks"**, which can be found [here](http://people.cs.aau.dk/~byang/papers/ICDE2019-GCWC.pdf).
 
-The [Flask](https://flask.palletsprojects.com/en/1.1.x/) framework has been used as the web framework in this project.
+The [Flask](https://flask.palletsprojects.com/en/1.1.x/) framework has been used as the web framework in this project. 
 
 ## How to use
 
